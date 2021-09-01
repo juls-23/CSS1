@@ -1,16 +1,35 @@
 .img {
-  width: 400px;
+  width: 300px;
   box-sizing: border-box;
   /* height: 400px; */
-  border: 3px solid rgb(145, 17, 17) ;
-  border-left: none;
+  border: 3px solid rgb(145, 30, 17) ;
+  /* border-left: none;
   border-right-style: dotted;
   border-bottom-color: yellow;
-  border-top-width: 20px;
+  border-top-width: 20px; */
 
-  padding: 15px 10px 30px 50px;
-  padding-left: 5px;
+  padding: 5px 15px;
+  /* padding-left: 5px;
   padding-right: 10px;
   padding-top: 15px;
-  padding-bottom: 20px;
+  padding-bottom: 20px; */
+}
+
+.span {
+  width: 300px;
+  border: 3px solid rgb(231, 100, 85) ;
+  padding: 15px 15px;
+  margin: 100px;
+}
+
+.div {
+  border: 3px solid rgb(196, 75, 62);
+  width: 300px;
+  margin: 50px auto;
+  
+}
+
+.align-center{
+  margin: 10px auto;
+  text-align: center;
 }
