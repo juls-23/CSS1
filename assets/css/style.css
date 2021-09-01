@@ -1,0 +1,21 @@
+.main-article{
+    font-size: 60px;
+    color: magenta;
+    border: green dotted 5px;
+}
+
+.article-header {
+  font-size: 1.1em;
+  border:inherit;
+  text-transform: uppercase;
+}
+
+.article-content{
+  font-size: initial;
+}
+
+.article-link{
+  color:inherit;
+  text-decoration: none;
+  text-transform: uppercase;
+}
